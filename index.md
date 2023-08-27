@@ -2,8 +2,8 @@
 layout: cv
 title: 陈学添
 email:
-  url: mailto:19307110189@fudan.edu.cn
-  text: 19307110189@fudan.edu.cn
+  url: mailto:23210980105@m.fudan.edu.cn
+  text: 23210980105@m.fudan.edu.cn
 phone: 19821231773
 ---
 
